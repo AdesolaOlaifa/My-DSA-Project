@@ -19,4 +19,4 @@ I started my portfolio building here doing my Data Analysis Project on SQL and P
 
 ### Tools Used: Microsoft Power Bi
 
-### Data Cleaning and Preparation: The following actions performed at the initial phase are importing the data, cleaning the data, visualizing
+### Data Cleaning and Preparation: The following actions performed at the initial phase are importing the data, cleaning the data, visualizing and so on.
